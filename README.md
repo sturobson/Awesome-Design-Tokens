@@ -4,6 +4,7 @@
 
 A list of company design systems Design Tokens section
 
+- [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/design-tokens/)
 - [Formstack](https://www.formstack.com/brand/design-system/tokens)
 - [Comet (Discovery Education](https://comet.discoveryeducation.com/resources/tokens.html)
 - [Kalo](https://kalo.design/meta/design-tokens/)
@@ -13,6 +14,7 @@ A list of company design systems Design Tokens section
 
 A list of repos that contain a companies Design Tokens
 
+- [Salesforce](https://github.com/salesforce-ux/design-system/tree/master/design-tokens)
 - [Open Table](https://github.com/opentable/design-tokens)
 - [Kiwi.com](https://github.com/kiwicom/orbit-design-tokens)
 - [Mozilla Protocal Design System](https://github.com/kiwicom/orbit-design-tokens)
