@@ -46,4 +46,4 @@ A list of tools that help you generate other files from your design tokens
 ## Slides, Videos, Podcasts
 
 - 📊 [Tokens in Design Systems](https://speakerdeck.com/jina/design-tokens-in-design-systems)
-- 🎧 [Design Tokens: Scaling Design with a Single Source of Truth(https://aycl.uie.com/virtual_seminars/design_tokens_scaling_design_with_a_single_source_of_truth) (💲)
+- 🎧 [Design Tokens: Scaling Design with a Single Source of Truth](https://aycl.uie.com/virtual_seminars/design_tokens_scaling_design_with_a_single_source_of_truth) (💲)
