@@ -9,6 +9,7 @@ A list of company design systems Design Tokens section
 - [Comet (Discovery Education](https://comet.discoveryeducation.com/resources/tokens.html)
 - [Kalo](https://kalo.design/meta/design-tokens/)
 - [Hex (Bitnami](https://design.bitnami.com/category/Design-Tokens/)
+- [Mineral UI](https://mineral-ui.com/tokens)
 
 ## Github Repos
 
@@ -23,6 +24,7 @@ A list of repos that contain a companies Design Tokens
 - [Shopify Polaris](https://github.com/Shopify/polaris-tokens)
 - [Infor Design](https://github.com/infor-design/design-system/tree/master/design-tokens)
 - [Envato Foundation](https://github.com/envato/foundation-design-system-tokens)
+- [Backpack](https://github.com/Skyscanner/backpack/tree/master/packages/bpk-tokens)
 
 
 ## Articles
