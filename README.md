@@ -1,7 +1,17 @@
 # Awesome-Design-Tokens
 
-To start, this is just a list of Design Tokens used in companies I've found on GitHub.
+## Live Sites
 
+A list of company design systems Design Tokens section
+
+- [Formstack](https://www.formstack.com/brand/design-system/tokens)
+- [Comet (Discovery Education](https://comet.discoveryeducation.com/resources/tokens.html)
+- [Kalo](https://kalo.design/meta/design-tokens/)
+- [Hex (Bitnami](https://design.bitnami.com/category/Design-Tokens/)
+
+## Github Repos
+
+A list of repos that contain a companies Design Tokens
 
 - [Open Table](https://github.com/opentable/design-tokens)
 - [Kiwi.com](https://github.com/kiwicom/orbit-design-tokens)
@@ -30,3 +40,8 @@ A list of tools that help you generate other files from your design tokens
 - [Theo](https://github.com/salesforce-ux/theo)
 - [Style Dictionairy](https://github.com/amzn/style-dictionary)
 - [Dragoman](https://github.com/NateBaldwinDesign/dragoman)
+
+## Slides, Videos, Podcasts
+
+- 📊 [Tokens in Design Systems](https://speakerdeck.com/jina/design-tokens-in-design-systems)
+- 🎧 [Design Tokens: Scaling Design with a Single Source of Truth(https://aycl.uie.com/virtual_seminars/design_tokens_scaling_design_with_a_single_source_of_truth) (💲)
