@@ -25,6 +25,7 @@ A list of repos that contain a companies Design Tokens
 - [Infor Design](https://github.com/infor-design/design-system/tree/master/design-tokens)
 - [Envato Foundation](https://github.com/envato/foundation-design-system-tokens)
 - [Backpack](https://github.com/Skyscanner/backpack/tree/master/packages/bpk-tokens)
+- [BuildIt Gravity Particles](https://github.com/buildit/gravity-particles)
 
 
 ## Articles
