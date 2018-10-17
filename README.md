@@ -26,6 +26,7 @@ A list of repos that contain a companies Design Tokens
 - [Envato Foundation](https://github.com/envato/foundation-design-system-tokens)
 - [Backpack](https://github.com/Skyscanner/backpack/tree/master/packages/bpk-tokens)
 - [BuildIt Gravity Particles](https://github.com/buildit/gravity-particles)
+- [Cedar Design System Tokens](https://github.com/rei/rei-cedar-tokens)
 
 
 ## Articles
