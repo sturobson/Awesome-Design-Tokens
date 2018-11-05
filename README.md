@@ -46,6 +46,7 @@ A list of tools that help you generate other files from your design tokens
 - [Theo](https://github.com/salesforce-ux/theo)
 - [Style Dictionairy](https://github.com/amzn/style-dictionary)
 - [Dragoman](https://github.com/NateBaldwinDesign/dragoman)
+- [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Design System Utils is a micro framework that standardises your design tokens & provides helpful utility functions to access it’s information. It can be used with styled-components, emotion, glamorous or any other CSS-in-JS framework.
 
 ## Slides, Videos, Podcasts
 
