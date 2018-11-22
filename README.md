@@ -44,7 +44,7 @@ A list of articles that discuss design tokens, including any tutorials found on 
 A list of tools that help you generate other files from your design tokens
 
 - [Theo](https://github.com/salesforce-ux/theo)
-- [Style Dictionairy](https://github.com/amzn/style-dictionary)
+- [Style Dictionary](https://github.com/amzn/style-dictionary)
 - [Dragoman](https://github.com/NateBaldwinDesign/dragoman)
 
 ## Slides, Videos, Podcasts
