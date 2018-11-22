@@ -46,6 +46,7 @@ A list of tools that help you generate other files from your design tokens
 - [Theo](https://github.com/salesforce-ux/theo)
 - [Style Dictionary](https://github.com/amzn/style-dictionary)
 - [Dragoman](https://github.com/NateBaldwinDesign/dragoman)
+- [design-system-utils](https://github.com/mrmartineau/design-system-utils)
 
 ## Slides, Videos, Podcasts
 
