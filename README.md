@@ -18,7 +18,7 @@ A list of repos that contain a companies Design Tokens
 - [Salesforce](https://github.com/salesforce-ux/design-system/tree/master/design-tokens)
 - [Open Table](https://github.com/opentable/design-tokens)
 - [Kiwi.com](https://github.com/kiwicom/orbit-design-tokens)
-- [Mozilla Protocal Design System](https://github.com/kiwicom/orbit-design-tokens)
+- [Mozilla Protocal Design System](https://github.com/mozilla/protocol)
 - [Bloomberg](https://github.com/bloombergbna?utf8=✓&q=fishtank&type=&language=)
 - [Firefox Photon](https://github.com/FirefoxUX/design-tokens)
 - [Shopify Polaris](https://github.com/Shopify/polaris-tokens)
