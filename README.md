@@ -38,6 +38,7 @@ A list of articles that discuss design tokens, including any tutorials found on 
 - [Using design tokens to promote collaboration and maintainability of a design system](http://thibault.mahe.io/blog/design-tokens.html)
 - [How we use Sass Maps for Design Tokens and Developer Happiness](https://www.bigeng.io/how-we-use-sass-maps-for-design-tokens-and-developer-happiness/)
 - [How to manage your Design Tokens with Style Dictionary](https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa)
+- [What Are Design Tokens?](https://css-tricks.com/what-are-design-tokens/)
 
 ## Tools
 
