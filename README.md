@@ -18,7 +18,7 @@ A list of repos that contain a companies Design Tokens
 - [Salesforce](https://github.com/salesforce-ux/design-system/tree/master/design-tokens)
 - [Open Table](https://github.com/opentable/design-tokens)
 - [Kiwi.com](https://github.com/kiwicom/orbit-design-tokens)
-- [Mozilla Protocal Design System](https://github.com/kiwicom/orbit-design-tokens)
+- [Mozilla Protocal Design System](https://github.com/mozilla/protocol)
 - [Bloomberg](https://github.com/bloombergbna?utf8=✓&q=fishtank&type=&language=)
 - [Firefox Photon](https://github.com/FirefoxUX/design-tokens)
 - [Shopify Polaris](https://github.com/Shopify/polaris-tokens)
@@ -26,6 +26,7 @@ A list of repos that contain a companies Design Tokens
 - [Envato Foundation](https://github.com/envato/foundation-design-system-tokens)
 - [Backpack](https://github.com/Skyscanner/backpack/tree/master/packages/bpk-tokens)
 - [BuildIt Gravity Particles](https://github.com/buildit/gravity-particles)
+- [Cedar Design System Tokens](https://github.com/rei/rei-cedar-tokens)
 
 
 ## Articles
@@ -36,15 +37,16 @@ A list of articles that discuss design tokens, including any tutorials found on 
 - [Article on UX Collective](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
 - [Using design tokens to promote collaboration and maintainability of a design system](http://thibault.mahe.io/blog/design-tokens.html)
 - [How we use Sass Maps for Design Tokens and Developer Happiness](https://www.bigeng.io/how-we-use-sass-maps-for-design-tokens-and-developer-happiness/)
-
+- [How to manage your Design Tokens with Style Dictionary](https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa)
 
 ## Tools
 
 A list of tools that help you generate other files from your design tokens
 
 - [Theo](https://github.com/salesforce-ux/theo)
-- [Style Dictionairy](https://github.com/amzn/style-dictionary)
+- [Style Dictionary](https://github.com/amzn/style-dictionary)
 - [Dragoman](https://github.com/NateBaldwinDesign/dragoman)
+- [design-system-utils](https://github.com/mrmartineau/design-system-utils)
 
 ## Slides, Videos, Podcasts
 
