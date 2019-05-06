@@ -7,7 +7,7 @@ A list of company design systems Design Tokens section
 - [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/design-tokens/)
 - [Formstack](https://www.formstack.com/brand/design-system/tokens)
 - [Comet (Discovery Education](https://comet.discoveryeducation.com/resources/tokens.html)
-- [Kalo](https://kalo.design/meta/design-tokens/)
+- [Kalo](https://kalo.design/foundations/design-tokens/)
 - [Hex (Bitnami](https://design.bitnami.com/category/Design-Tokens/)
 - [Mineral UI](https://mineral-ui.com/tokens)
 
