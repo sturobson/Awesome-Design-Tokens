@@ -2,18 +2,18 @@
 
 ## Live Sites
 
-A list of company design systems Design Tokens section
+A list of company design systems design tokens section
 
 - [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/design-tokens/)
 - [Formstack](https://www.formstack.com/brand/design-system/tokens)
-- [Comet (Discovery Education](https://comet.discoveryeducation.com/resources/tokens.html)
+- [Comet (Discovery Education)](https://comet.discoveryeducation.com/resources/tokens.html)
 - [Kalo](https://kalo.design/foundations/design-tokens/)
-- [Hex (Bitnami](https://design.bitnami.com/category/Design-Tokens/)
+- [Hex (Bitnami)](https://design.bitnami.com/category/Design-Tokens/)
 - [Mineral UI](https://mineral-ui.com/tokens)
 
-## Github Repos
+## GitHub Repositories
 
-A list of repos that contain a companies Design Tokens
+A list of repos that contain a companies design tokens
 
 - [Salesforce](https://github.com/salesforce-ux/design-system/tree/master/design-tokens)
 - [Open Table](https://github.com/opentable/design-tokens)
