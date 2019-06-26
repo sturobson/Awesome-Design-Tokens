@@ -1,5 +1,13 @@
 # Awesome-Design-Tokens
 
+## Twitter Account
+
+[@Jina](https://www.twitter.com/jina) looks after a Twitter account with great Retweets and information about [Design Tokens](https://www.twitter.com/DesignTokens).
+
+## A Working Group
+
+To look for consistency across design tooling and more there is now a [Design Tokens Working Group](https://github.com/design-tokens/working-group)
+
 ## Live Sites
 
 A list of company design systems Design Tokens section
