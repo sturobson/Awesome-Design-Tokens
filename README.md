@@ -6,12 +6,12 @@ A list of company design systems Design Tokens section
 
 - [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/design-tokens/)
 - [Formstack](https://www.formstack.com/brand/design-system/tokens)
-- [Comet (Discovery Education](https://comet.discoveryeducation.com/resources/tokens.html)
+- [Comet (Discovery Education)](https://comet.discoveryeducation.com/resources/tokens.html)
 - [Kalo](https://kalo.design/foundations/design-tokens/)
-- [Hex (Bitnami](https://design.bitnami.com/category/Design-Tokens/)
+- [Hex (Bitnami)](https://design.bitnami.com/category/Design-Tokens/)
 - [Mineral UI](https://mineral-ui.com/tokens)
 
-## Github Repos
+## GitHub Repositories
 
 A list of repos that contain a companies Design Tokens
 
@@ -31,7 +31,7 @@ A list of repos that contain a companies Design Tokens
 
 ## Articles
 
-A list of articles that discuss design tokens, including any tutorials found on how they're being created.
+A list of articles that discuss Design Tokens, including any tutorials found on how they're being created.
 
 - [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 - [Article on UX Collective](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
