@@ -41,6 +41,9 @@ A list of repos that contain a companies Design Tokens
 
 A list of articles that discuss Design Tokens, including any tutorials found on how they're being created.
 
+- [Tokenize It](https://blog.prototypr.io/tokenize-it-2a544ef1413b)
+- [Design Tokens with Figma](https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f)
+- [Documenting Design Tokens](https://dbanks.design/blog/documenting-design-tokens/)
 - [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 - [Article on UX Collective](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
 - [Using design tokens to promote collaboration and maintainability of a design system](http://thibault.mahe.io/blog/design-tokens.html)
