@@ -4,9 +4,13 @@
 
 [@Jina](https://www.twitter.com/jina) looks after a Twitter account with great Retweets and information about [Design Tokens](https://www.twitter.com/DesignTokens).
 
-## A Working Group
+## Design Tokens Working Group
 
 To look for consistency across design tooling and more there is now a [Design Tokens Working Group](https://github.com/design-tokens/working-group)
+
+## Design Tokens Newsletter
+
+The sign-up page for the [Design Tokens Newsletter](https://designtokens.curated.co)
 
 ## Live Sites
 
@@ -50,6 +54,10 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [How we use Sass Maps for Design Tokens and Developer Happiness](https://www.bigeng.io/how-we-use-sass-maps-for-design-tokens-and-developer-happiness/)
 - [How to manage your Design Tokens with Style Dictionary](https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa)
 - [What Are Design Tokens?](https://css-tricks.com/what-are-design-tokens/)
+- [Making Design Tokens Work Across Platforms with Amazon Style Dictionary](https://writing.mariusz.cc/amazon-style-dictionary-design-tokens/)
+- [Manage design tokens with TypeScript and styled-components](https://www.erikverweij.dev/blog/manage-design-tokens-with-typescript-and-styled-components/)
+- [Building a Visual Studio Code Theme with Style Dictionary](https://dbanks.design/blog/vs-code-theme-with-style-dictionary/)
+
 
 ## Tools
 
@@ -61,8 +69,11 @@ A list of tools that help you generate other files from your design tokens
 - [Dragoman](https://github.com/NateBaldwinDesign/dragoman)
 - [design-system-utils](https://github.com/mrmartineau/design-system-utils)
 - [Design Tokens Explorer](https://github.com/here-erhe/Design-Token-Exporter)
+- [Theme.css](https://github.com/ds-tools/theme.figma/blob/master/readme.md)
 
 ## Slides, Videos, Podcasts
 
 - 📊 [Tokens in Design Systems](https://speakerdeck.com/jina/design-tokens-in-design-systems)
 - 🎧 [Design Tokens: Scaling Design with a Single Source of Truth](https://aycl.uie.com/virtual_seminars/design_tokens_scaling_design_with_a_single_source_of_truth) (💲)
+- 🎧 [https://www.smashingmagazine.com/2019/11/smashing-podcast-episode-3/](Smashing Podcast Episode 3 With Jina: What Are Design Tokens?)
+- 🎧 [https://spec.fm/podcasts/toolsday/309795](Toolsday 104. Design Tokens with Jina)
