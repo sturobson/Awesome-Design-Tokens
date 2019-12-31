@@ -70,9 +70,11 @@ A list of tools that help you generate other files from your design tokens
 - [design-system-utils](https://github.com/mrmartineau/design-system-utils)
 - [Design Tokens Explorer](https://github.com/here-erhe/Design-Token-Exporter)
 - [Theme.css](https://github.com/ds-tools/theme.figma/blob/master/readme.md)
+- [Chromatic](https://github.com/ui-js/chromatic)
 
 ## Slides, Videos, Podcasts
 
+- 📽 [Building Consistent Cross-Platform Interfaces](https://youtu.be/OCMt-aA8XBA)
 - 📊 [Tokens in Design Systems](https://speakerdeck.com/jina/design-tokens-in-design-systems)
 - 🎧 [Design Tokens: Scaling Design with a Single Source of Truth](https://aycl.uie.com/virtual_seminars/design_tokens_scaling_design_with_a_single_source_of_truth) (💲)
 - 🎧 [https://www.smashingmagazine.com/2019/11/smashing-podcast-episode-3/](Smashing Podcast Episode 3 With Jina: What Are Design Tokens?)
