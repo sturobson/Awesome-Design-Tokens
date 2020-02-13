@@ -57,7 +57,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Making Design Tokens Work Across Platforms with Amazon Style Dictionary](https://writing.mariusz.cc/amazon-style-dictionary-design-tokens/)
 - [Manage design tokens with TypeScript and styled-components](https://www.erikverweij.dev/blog/manage-design-tokens-with-typescript-and-styled-components/)
 - [Building a Visual Studio Code Theme with Style Dictionary](https://dbanks.design/blog/vs-code-theme-with-style-dictionary/)
-
+- [Theo Design Tokens Using Node-Sass Importer For Any Build Method](https://basalt.io/blog/theo-design-tokens-using-node-sass-importer-for-any-build-method)
 
 ## Tools
 
