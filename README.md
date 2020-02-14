@@ -1,12 +1,9 @@
 # Awesome-Design-Tokens
 
-## Twitter Account
-
-[@Jina](https://www.twitter.com/jina) looks after a Twitter account with great Retweets and information about [Design Tokens](https://www.twitter.com/DesignTokens).
-
 ## Design Tokens Working Group
 
-To look for consistency across design tooling and more there is now a [Design Tokens Working Group](https://github.com/design-tokens/working-group)
+- [Design Tokens Working Group Repo](https://github.com/design-tokens/working-group)
+- [Design Tokens Twitter](https://www.twitter.com/DesignTokens
 
 ## Design Tokens Newsletter
 
