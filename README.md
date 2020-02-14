@@ -3,7 +3,7 @@
 ## Design Tokens Working Group
 
 - [Design Tokens Working Group Repo](https://github.com/design-tokens/working-group)
-- [Design Tokens Twitter](https://www.twitter.com/DesignTokens
+- [Design Tokens Twitter](https://www.twitter.com/DesignTokens)
 
 ## Design Tokens Newsletter
 
