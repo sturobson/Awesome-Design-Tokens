@@ -39,6 +39,7 @@ A list of repos that contain a companies Design Tokens
 - [Backpack](https://github.com/Skyscanner/backpack/tree/master/packages/bpk-tokens)
 - [BuildIt Gravity Particles](https://github.com/buildit/gravity-particles)
 - [Cedar Design System Tokens](https://github.com/rei/rei-cedar-tokens)
+- [Adobe Spectrum](https://spectrum.adobe.com/page/design-tokens/)
 
 
 ## Articles
@@ -71,6 +72,8 @@ A list of tools that help you generate other files from your design tokens
 - [Design Tokens Explorer](https://github.com/here-erhe/Design-Token-Exporter)
 - [Theme.css](https://github.com/ds-tools/theme.figma/blob/master/readme.md)
 - [Chromatic](https://github.com/ui-js/chromatic)
+- [SuperPosition](https://superposition.design)
+- [DesignTokens.dev](https://www.designtokens.dev)
 
 ## Plugins
 
@@ -89,3 +92,9 @@ A list of plugins to help you move tokens from apps to wherever you want
 - 🎧 [Toolsday 104. Design Tokens with Jina](https://spec.fm/podcasts/toolsday/309795)
 - 📊 [Design Tokens and CSS](https://noti.st/sturobson/H9SeXk/design-tokens-and-css-systemising-the-design-of-components)
 - 📽 [Design Tokens and CSS](https://youtu.be/map-zXfy6y0)
+- 📽 [Design Tokens 101](https://kilianvalkhof.com/2020/design/design-tokens-101/)
+
+
+## Other
+
+- [Universal Design Tokens](https://udt.design)
