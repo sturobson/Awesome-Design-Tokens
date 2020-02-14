@@ -78,6 +78,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 
 - [Design Tokens (Sketch)](https://andreask.design/design-tokens/)
 - [Style Mate (XD)](https://useratio.com/stylemate/)
+- [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
 
 ## Slides, Videos, Podcasts
 
