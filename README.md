@@ -55,6 +55,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Manage design tokens with TypeScript and styled-components](https://www.erikverweij.dev/blog/manage-design-tokens-with-typescript-and-styled-components/)
 - [Building a Visual Studio Code Theme with Style Dictionary](https://dbanks.design/blog/vs-code-theme-with-style-dictionary/)
 - [Theo Design Tokens Using Node-Sass Importer For Any Build Method](https://basalt.io/blog/theo-design-tokens-using-node-sass-importer-for-any-build-method)
+- [Design Tokens for Dummies](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
 
 ## Tools
 
@@ -71,6 +72,7 @@ A list of tools that help you generate other files from your design tokens
 - [SuperPosition](https://superposition.design)
 - [DesignTokens.dev](https://www.designtokens.dev)
 - [Gorko](https://github.com/hankchizljaw/gorko)
+- [Specify](https://www.specifyapp.com)
 
 ## Plugins
 
@@ -79,6 +81,8 @@ A list of plugins to help you move tokens from apps to wherever you want
 - [Design Tokens (Sketch)](https://andreask.design/design-tokens/)
 - [Style Mate (XD)](https://useratio.com/stylemate/)
 - [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
+- [Figmagic (Figma)](https://github.com/mikaelvesavuori/figmagic)
+- [Figgo (Figma)](https://github.com/B3nnyL/figgo)
 
 ## Slides, Videos, Podcasts
 
@@ -89,7 +93,8 @@ A list of plugins to help you move tokens from apps to wherever you want
 - 🎧 [Toolsday 104. Design Tokens with Jina](https://spec.fm/podcasts/toolsday/309795)
 - 📊 [Design Tokens and CSS](https://noti.st/sturobson/H9SeXk/design-tokens-and-css-systemising-the-design-of-components)
 - 📽 [Design Tokens and CSS](https://youtu.be/map-zXfy6y0)
-- 📽 [Design Tokens 101](https://kilianvalkhof.com/2020/design/design-tokens-101/)
+- 📽 [Design Tokens 101](https://kilianvalkhof.com/2020/design/design-tokens-101/) te
+- 📽 [Mikolaj Dobrucki - Getting More with Design Tokens](https://vimeo.com/356648535)
 
 ## Other
 
