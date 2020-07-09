@@ -61,6 +61,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 
 A list of tools that help you generate other files from your design tokens
 
+- [Design tokens export plugin](https://github.com/design-meets-development/design-tokens-plugin)
 - [Theo](https://github.com/salesforce-ux/theo)
 - [Style Dictionary](https://github.com/amzn/style-dictionary)
 - [Mole](https://github.com/limitlessloop/mole)
