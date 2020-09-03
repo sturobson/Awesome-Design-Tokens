@@ -79,7 +79,7 @@ A list of tools that help you generate other files from your design tokens
 
 A list of plugins to help you move tokens from apps to wherever you want
 
-- [Design Tokens (Sketch)](https://andreask.design/design-tokens/)
+- [Design Tokens (Sketch)](https://design-tokens.netlify.app)
 - [Style Mate (XD)](https://useratio.com/stylemate/)
 - [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
 - [Figmagic (Figma)](https://github.com/mikaelvesavuori/figmagic)
