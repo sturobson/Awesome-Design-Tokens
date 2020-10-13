@@ -56,6 +56,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Building a Visual Studio Code Theme with Style Dictionary](https://dbanks.design/blog/vs-code-theme-with-style-dictionary/)
 - [Theo Design Tokens Using Node-Sass Importer For Any Build Method](https://basalt.io/blog/theo-design-tokens-using-node-sass-importer-for-any-build-method)
 - [Design Tokens for Dummies](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
+- [Documenting Design Tokens](https://dbanks.design/blog/documenting-design-tokens/)
 
 ## Tools
 
@@ -96,6 +97,8 @@ A list of plugins to help you move tokens from apps to wherever you want
 - 📽 [Design Tokens and CSS](https://youtu.be/map-zXfy6y0)
 - 📽 [Design Tokens 101](https://kilianvalkhof.com/2020/design/design-tokens-101/) te
 - 📽 [Mikolaj Dobrucki - Getting More with Design Tokens](https://vimeo.com/356648535)
+- 📊 [Louis Chenais - Design Tokens: To Infinity and Beyond](https://noti.st/louischenais/byPUwK/design-tokens-to-infinity-and-beyond)
+- 📽 [Louis Chenais - Standardisation des design tokens : le futur du design à grande échelle ?](https://www.youtube.com/watch?v=vs8DjsdOroc) (🇫🇷)
 
 ## Other
 
