@@ -85,6 +85,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 - [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
 - [Figmagic (Figma)](https://github.com/mikaelvesavuori/figmagic)
 - [Figgo (Figma)](https://github.com/B3nnyL/figgo)
+- [Design Tokens (Figma)](https://github.com/lukasoppermann/design-tokens)
 
 ## Slides, Videos, Podcasts
 
