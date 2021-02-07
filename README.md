@@ -99,12 +99,10 @@ A list of plugins to help you move tokens from apps to wherever you want
 
 ### Sketch
 - [Design Tokens (Sketch)](https://design-tokens.netlify.app)
+- [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
 
 ### Adobe XD
 - [Style Mate (XD)](https://useratio.com/stylemate/)
-
-### Other
-- [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
 
 ## Slides, Videos, Podcasts
 
