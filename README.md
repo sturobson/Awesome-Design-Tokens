@@ -57,7 +57,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Theo Design Tokens Using Node-Sass Importer For Any Build Method](https://basalt.io/blog/theo-design-tokens-using-node-sass-importer-for-any-build-method)
 - [Design Tokens for Dummies](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
 - [Documenting Design Tokens](https://dbanks.design/blog/documenting-design-tokens/)
-
+- [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
 ## Tools
 
 A list of tools that help you generate other files from your design tokens
