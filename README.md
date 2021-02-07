@@ -110,7 +110,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 
 ### Videos
 
-- 📽 [WTF are Design Tokens?]https://www.youtube.com/watch?v=q5qIowMyVt8
+- 📽 [WTF are Design Tokens?](https://www.youtube.com/watch?v=q5qIowMyVt8)
 - 📽 [Building Consistent Cross-Platform Interfaces](https://youtu.be/OCMt-aA8XBA)
 - 📽 [Design Tokens and CSS](https://youtu.be/map-zXfy6y0)
 - 📽 [Design Tokens 101](https://kilianvalkhof.com/2020/design/design-tokens-101/)
