@@ -42,6 +42,8 @@ A list of repos that contain a companies Design Tokens
 
 A list of articles that discuss Design Tokens, including any tutorials found on how they're being created.
 
+- [The context dilemma: design tokens and components](https://frontside.com/blog/2021-01-15-design-tokens-and-components/)
+- [Design tokens — What are they & how will they help you?](https://lukasoppermann.medium.com/design-tokens-what-are-they-how-will-they-help-you-b73f80f602ab)
 - [Tokenize It](https://blog.prototypr.io/tokenize-it-2a544ef1413b)
 - [Design Tokens with Figma](https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f)
 - [Documenting Design Tokens](https://dbanks.design/blog/documenting-design-tokens/)
@@ -58,10 +60,21 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Design Tokens for Dummies](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
 - [Documenting Design Tokens](https://dbanks.design/blog/documenting-design-tokens/)
 - [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
+
+### Collections
+
+- [1. Introduction to Design Tokens](https://www.michaelmang.dev/blog/introduction-to-design-tokens)
+- [2. Managing and Exporting Design Tokens With Style Dictionary](https://www.michaelmang.dev/blog/managing-and-exporting-design-tokens-with-style-dictionary)
+- [3. Exporting Design Tokens From Figma With Style Dictionary](https://www.michaelmang.dev/blog/exporting-design-tokens-from-figma-with-style-dictionary)
+- [4. Consuming Design Tokens From Style Dictionary Across Platform-Specific Applications](https://www.michaelmang.dev/blog/consuming-design-tokens-from-style-dictionary-across-platform-specific-applications)
+
+
 ## Tools
 
 A list of tools that help you generate other files from your design tokens
 
+- [Toolabs DSM](https://www.toolabs.com)
+- [Arcade](https://usearcade.com)
 - [Design tokens export plugin](https://github.com/design-meets-development/design-tokens-plugin)
 - [Theo](https://github.com/salesforce-ux/theo)
 - [Style Dictionary](https://github.com/amzn/style-dictionary)
@@ -79,27 +92,42 @@ A list of tools that help you generate other files from your design tokens
 ## Plugins
 
 A list of plugins to help you move tokens from apps to wherever you want
-
-- [Design Tokens (Sketch)](https://design-tokens.netlify.app)
-- [Style Mate (XD)](https://useratio.com/stylemate/)
-- [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
+###  Figma
 - [Figmagic (Figma)](https://github.com/mikaelvesavuori/figmagic)
 - [Figgo (Figma)](https://github.com/B3nnyL/figgo)
-- [Design Tokens (Figma)](https://github.com/lukasoppermann/design-tokens)
+- [Design Tokens](https://github.com/lukasoppermann/design-tokens)
+
+### Sketch
+- [Design Tokens (Sketch)](https://design-tokens.netlify.app)
+
+### Adobe XD
+- [Style Mate (XD)](https://useratio.com/stylemate/)
+
+### Other
+- [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
 
 ## Slides, Videos, Podcasts
 
+### Videos
+
+- 📽 [WTF are Design Tokens?]https://www.youtube.com/watch?v=q5qIowMyVt8
 - 📽 [Building Consistent Cross-Platform Interfaces](https://youtu.be/OCMt-aA8XBA)
+- 📽 [Design Tokens and CSS](https://youtu.be/map-zXfy6y0)
+- 📽 [Design Tokens 101](https://kilianvalkhof.com/2020/design/design-tokens-101/)
+- 📽 [Mikolaj Dobrucki - Getting More with Design Tokens](https://vimeo.com/356648535)
+- 📽 [Louis Chenais - Standardisation des design tokens : le futur du design à grande échelle ?](https://www.youtube.com/watch?v=vs8DjsdOroc) (🇫🇷)
+
+### Slides
+
 - 📊 [Tokens in Design Systems](https://speakerdeck.com/jina/design-tokens-in-design-systems)
+- 📊 [Design Tokens and CSS](https://noti.st/sturobson/H9SeXk/design-tokens-and-css-systemising-the-design-of-components)
+- 📊 [Louis Chenais - Design Tokens: To Infinity and Beyond](https://noti.st/louischenais/byPUwK/design-tokens-to-infinity-and-beyond)
+
+### Podcasts
 - 🎧 [Design Tokens: Scaling Design with a Single Source of Truth](https://aycl.uie.com/virtual_seminars/design_tokens_scaling_design_with_a_single_source_of_truth) (💲)
 - 🎧 [Smashing Podcast Episode 3 With Jina: What Are Design Tokens?](https://www.smashingmagazine.com/2019/11/smashing-podcast-episode-3/)
 - 🎧 [Toolsday 104. Design Tokens with Jina](https://spec.fm/podcasts/toolsday/309795)
-- 📊 [Design Tokens and CSS](https://noti.st/sturobson/H9SeXk/design-tokens-and-css-systemising-the-design-of-components)
-- 📽 [Design Tokens and CSS](https://youtu.be/map-zXfy6y0)
-- 📽 [Design Tokens 101](https://kilianvalkhof.com/2020/design/design-tokens-101/) te
-- 📽 [Mikolaj Dobrucki - Getting More with Design Tokens](https://vimeo.com/356648535)
-- 📊 [Louis Chenais - Design Tokens: To Infinity and Beyond](https://noti.st/louischenais/byPUwK/design-tokens-to-infinity-and-beyond)
-- 📽 [Louis Chenais - Standardisation des design tokens : le futur du design à grande échelle ?](https://www.youtube.com/watch?v=vs8DjsdOroc) (🇫🇷)
+
 
 ## Other
 
