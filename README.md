@@ -60,6 +60,8 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Design Tokens for Dummies](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
 - [Documenting Design Tokens](https://dbanks.design/blog/documenting-design-tokens/)
 - [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
+- [Building better products with a design token pipeline](https://uxdesign.cc/building-better-products-with-the-design-token-pipeline-faa86aa068e8)
+- [Design Tokens Only Exist In A Pre-Processed State](https://carbonemike.com/design-tokens-only-exist-pre-processed)
 
 ### Collections
 
@@ -67,7 +69,8 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [2. Managing and Exporting Design Tokens With Style Dictionary](https://www.michaelmang.dev/blog/managing-and-exporting-design-tokens-with-style-dictionary)
 - [3. Exporting Design Tokens From Figma With Style Dictionary](https://www.michaelmang.dev/blog/exporting-design-tokens-from-figma-with-style-dictionary)
 - [4. Consuming Design Tokens From Style Dictionary Across Platform-Specific Applications](https://www.michaelmang.dev/blog/consuming-design-tokens-from-style-dictionary-across-platform-specific-applications)
-
+- [5. Generating Design Token Theme Shades With Style Dictionary](https://www.michaelmang.dev/blog/generating-design-token-theme-shades-with-style-dictionary)
+- [6. Documenting Design Tokens With Docusaurus](https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus)
 
 ## Tools
 
@@ -88,6 +91,7 @@ A list of tools that help you generate other files from your design tokens
 - [DesignTokens.dev](https://www.designtokens.dev)
 - [Gorko](https://github.com/hankchizljaw/gorko)
 - [Specify](https://www.specifyapp.com)
+- [Design Tokens GitHub Actions Generator](https://design-tokens-github-actions-generator.netlify.app)
 
 ## Plugins
 
