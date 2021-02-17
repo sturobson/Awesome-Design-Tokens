@@ -62,6 +62,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
 - [Building better products with a design token pipeline](https://uxdesign.cc/building-better-products-with-the-design-token-pipeline-faa86aa068e8)
 - [Design Tokens Only Exist In A Pre-Processed State](https://carbonemike.com/design-tokens-only-exist-pre-processed)
+- [Minumum Viable Design Tokens](https://bootcamp.uxdesign.cc/minimum-viable-design-tokens-e5cdbe69db96)
 
 ### Collections
 
@@ -71,6 +72,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [4. Consuming Design Tokens From Style Dictionary Across Platform-Specific Applications](https://www.michaelmang.dev/blog/consuming-design-tokens-from-style-dictionary-across-platform-specific-applications)
 - [5. Generating Design Token Theme Shades With Style Dictionary](https://www.michaelmang.dev/blog/generating-design-token-theme-shades-with-style-dictionary)
 - [6. Documenting Design Tokens With Docusaurus](https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus)
+- [7. Integrating Design Tokens With Tailwind](https://www.michaelmang.dev/blog/integrating-design-tokens-with-tailwind)
 
 ## Tools
 
@@ -107,6 +109,10 @@ A list of plugins to help you move tokens from apps to wherever you want
 
 ### Adobe XD
 - [Style Mate (XD)](https://useratio.com/stylemate/)
+
+### MockFlow
+
+- [Design Tokens](https://mockflow.com/mockstore/#/powerup/Dbf4986ea1bacffca316048f9bc337ff8/Design%20Tokens)
 
 ## Slides, Videos, Podcasts
 
