@@ -66,6 +66,10 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Where to Start with Design Tokens](https://mcapoz.medium.com/where-to-start-with-design-tokens-fbfd1c168101)
 - [Dynamic Design Tokens](https://mcapoz.medium.com/where-to-start-with-design-tokens-fbfd1c168101)
 - [Design Tokens Cheatsheet](https://uxdesign.cc/design-tokens-cheatsheet-927fc1404099)
+- [Design Tokens in Figma - Setting Up Your Design System](https://www.headway.io/blog/design-tokens-in-figma-setting-up-your-design-system)
+- [Cómo implementamos Design Tokens en Bnext (How we implement Design Tokens in Bnext)](https://bnextdesign.medium.com/cómo-implementamos-design-tokens-en-bnext-e75e25c40289) 🇪🇸
+- [Design tokens with Figma](https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f)
+- [JSON to Figma, from Vanilla JS to React](https://medium.com/weekly-webtips/json-to-figma-plugin-from-vanilla-js-to-react-6229a64b3a3e)
 - 
 
 ### Collections
@@ -77,6 +81,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [5. Generating Design Token Theme Shades With Style Dictionary](https://www.michaelmang.dev/blog/generating-design-token-theme-shades-with-style-dictionary)
 - [6. Documenting Design Tokens With Docusaurus](https://www.michaelmang.dev/blog/documenting-design-tokens-with-docusaurus)
 - [7. Integrating Design Tokens With Tailwind](https://www.michaelmang.dev/blog/integrating-design-tokens-with-tailwind)
+- [8. Transferring High Fidelity From A Design File To Style Dictionary](https://www.michaelmang.dev/blog/transferring-high-fidelity-from-a-design-file-to-style-dictionary)
 
 ## Tools
 
@@ -106,6 +111,8 @@ A list of plugins to help you move tokens from apps to wherever you want
 - [Figmagic (Figma)](https://github.com/mikaelvesavuori/figmagic)
 - [Figgo (Figma)](https://github.com/B3nnyL/figgo)
 - [Design Tokens](https://github.com/lukasoppermann/design-tokens)
+- [JSON to Figma](https://www.figma.com/community/plugin/789839703871161985/JSON-to-Figma)
+- [Wunderzin](https://github.com/PavelLaptev/wunderzin)
 
 ### Sketch
 - [Design Tokens (Sketch)](https://design-tokens.netlify.app)
