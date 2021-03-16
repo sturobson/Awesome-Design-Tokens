@@ -149,6 +149,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 - 🎧 [Design Tokens: Scaling Design with a Single Source of Truth](https://aycl.uie.com/virtual_seminars/design_tokens_scaling_design_with_a_single_source_of_truth) (💲)
 - 🎧 [Smashing Podcast Episode 3 With Jina: What Are Design Tokens?](https://www.smashingmagazine.com/2019/11/smashing-podcast-episode-3/)
 - 🎧 [Toolsday 104. Design Tokens with Jina](https://spec.fm/podcasts/toolsday/309795)
+- 🎧 [Using design tokens to standardize deliverables](https://www.designsystemspodcast.com/episodes/episode/48e64e62/28-matthew-strom-from-simplehealth-using-design-tokens-to-standardize-deliverables)
 
 
 ## Other
