@@ -70,7 +70,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Cómo implementamos Design Tokens en Bnext (How we implement Design Tokens in Bnext)](https://bnextdesign.medium.com/cómo-implementamos-design-tokens-en-bnext-e75e25c40289) 🇪🇸
 - [Design tokens with Figma](https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f)
 - [JSON to Figma, from Vanilla JS to React](https://medium.com/weekly-webtips/json-to-figma-plugin-from-vanilla-js-to-react-6229a64b3a3e)
-- 
+- [Collaboration with design tokens and storybook](https://zure.com/en/blog/collaboration-with-design-tokens-and-storybook/)
 
 ### Collections
 
@@ -85,6 +85,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [9. Scoring Design Tokens Adoption With OCLIF and PostCSS](https://www.michaelmang.dev/blog/scoring-design-tokens-adoption-with-oclif-and-postcss)
 - [10. Bootstrap UI Components With Design Tokens And Headless UI](https://www.michaelmang.dev/blog/bootstrap-ui-components-with-design-tokens-and-headless-ui)
 - [11. Linting Design Tokens With Stylelint](https://www.michaelmang.dev/blog/linting-design-tokens-with-stylelint)
+- [12. Stitching Styles to a Headless UI Using Design Tokens and Twind](https://www.michaelmang.dev/blog/stitching-styles-to-a-headless-ui-using-design-tokens-and-twind)
 
 ## Tools
 
