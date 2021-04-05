@@ -126,8 +126,10 @@ A list of plugins to help you move tokens from apps to wherever you want
 - [Style Mate (XD)](https://useratio.com/stylemate/)
 
 ### MockFlow
-
 - [Design Tokens](https://mockflow.com/mockstore/#/powerup/Dbf4986ea1bacffca316048f9bc337ff8/Design%20Tokens)
+
+### Invision DSM
+- [Organizing Design Tokens](https://support.invisionapp.com/hc/en-us/articles/360049483372)
 
 ## Slides, Videos, Podcasts
 
