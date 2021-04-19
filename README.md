@@ -71,6 +71,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Design tokens with Figma](https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f)
 - [JSON to Figma, from Vanilla JS to React](https://medium.com/weekly-webtips/json-to-figma-plugin-from-vanilla-js-to-react-6229a64b3a3e)
 - [Collaboration with design tokens and storybook](https://zure.com/en/blog/collaboration-with-design-tokens-and-storybook/)
+- [Introduction to Design Tokens](https://www.michaelmang.dev/blog/introduction-to-design-tokens)
 
 ### Collections
 
