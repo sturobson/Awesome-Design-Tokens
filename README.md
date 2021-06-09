@@ -71,6 +71,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Design tokens with Figma](https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f)
 - [JSON to Figma, from Vanilla JS to React](https://medium.com/weekly-webtips/json-to-figma-plugin-from-vanilla-js-to-react-6229a64b3a3e)
 - [Collaboration with design tokens and storybook](https://zure.com/en/blog/collaboration-with-design-tokens-and-storybook/)
+- [Full Featured Themes in Figma](https://gos.si/blog/full-featured-themes-in-figma/)
 
 ### Collections
 
@@ -107,6 +108,7 @@ A list of tools that help you generate other files from your design tokens
 - [Gorko](https://github.com/hankchizljaw/gorko)
 - [Specify](https://www.specifyapp.com)
 - [Design Tokens GitHub Actions Generator](https://design-tokens-github-actions-generator.netlify.app)
+- [Theemo](https://gossi.github.io/theemo/)
 
 ## Plugins
 
@@ -117,6 +119,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 - [Design Tokens](https://github.com/lukasoppermann/design-tokens)
 - [JSON to Figma](https://www.figma.com/community/plugin/789839703871161985/JSON-to-Figma)
 - [Wunderzin](https://github.com/PavelLaptev/wunderzin)
+- [Theemo](https://www.figma.com/community/plugin/791262205400516364)
 
 ### Sketch
 - [Design Tokens (Sketch)](https://design-tokens.netlify.app)
