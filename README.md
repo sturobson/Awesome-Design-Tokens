@@ -5,9 +5,6 @@
 - [Design Tokens Working Group Repo](https://github.com/design-tokens/working-group)
 - [Design Tokens Twitter](https://www.twitter.com/DesignTokens)
 
-## Design Tokens Newsletter
-
-The sign-up page for the [Design Tokens Newsletter](https://designtokens.curated.co)
 
 ## Live Sites
 
