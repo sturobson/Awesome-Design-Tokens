@@ -55,7 +55,6 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Building a Visual Studio Code Theme with Style Dictionary](https://dbanks.design/blog/vs-code-theme-with-style-dictionary/)
 - [Theo Design Tokens Using Node-Sass Importer For Any Build Method](https://basalt.io/blog/theo-design-tokens-using-node-sass-importer-for-any-build-method)
 - [Design Tokens for Dummies](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
-- [Documenting Design Tokens](https://dbanks.design/blog/documenting-design-tokens/)
 - [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
 - [Building better products with a design token pipeline](https://uxdesign.cc/building-better-products-with-the-design-token-pipeline-faa86aa068e8)
 - [Design Tokens Only Exist In A Pre-Processed State](https://carbonemike.com/design-tokens-only-exist-pre-processed)
@@ -65,7 +64,6 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Design Tokens Cheatsheet](https://uxdesign.cc/design-tokens-cheatsheet-927fc1404099)
 - [Design Tokens in Figma - Setting Up Your Design System](https://www.headway.io/blog/design-tokens-in-figma-setting-up-your-design-system)
 - [Cómo implementamos Design Tokens en Bnext (How we implement Design Tokens in Bnext)](https://bnextdesign.medium.com/cómo-implementamos-design-tokens-en-bnext-e75e25c40289) 🇪🇸
-- [Design tokens with Figma](https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f)
 - [JSON to Figma, from Vanilla JS to React](https://medium.com/weekly-webtips/json-to-figma-plugin-from-vanilla-js-to-react-6229a64b3a3e)
 - [Collaboration with design tokens and storybook](https://zure.com/en/blog/collaboration-with-design-tokens-and-storybook/)
 
