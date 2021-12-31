@@ -67,6 +67,14 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [JSON to Figma, from Vanilla JS to React](https://medium.com/weekly-webtips/json-to-figma-plugin-from-vanilla-js-to-react-6229a64b3a3e)
 - [Collaboration with design tokens and storybook](https://zure.com/en/blog/collaboration-with-design-tokens-and-storybook/)
 - [Full Featured Themes in Figma](https://gos.si/blog/full-featured-themes-in-figma/)
+- [Creating design systems based on design tokens with Figma Tokens](https://www.jansix.at/blog/creating-design-systems-based-on-design-tokens-figma-tokens)
+- [Design Systems, Design Tokens & Atomic Design — The Art of Scaling Design](https://www.bornfight.com/blog/design-systems-design-tokens-atomic-design-the-art-of-scaling-design/)
+- [Component-Specific Design Tokens](https://cloudfour.com/thinks/component-specific-design-tokens/)
+- [Design Systems @ Replit: Better Tokens](https://blog.replit.com/rui-tokens)
+- [The Anatomy of a Design Token](https://medium.com/@jonas_duri/effective-design-token-structure-111e4bd934c8)
+- [Design Tokens and Components in TruePay 🇵🇹](https://medium.com/truepay/design-tokens-e-componentes-na-truepay-928d1aa4f58c)
+- [Implementing Design Tokens in Workflows](https://www.nearform.com/blog/implementing-design-tokens-in-workflows/)
+- [Share design tokens across projects with JSX files](https://motiondeveloper.com/blog/design-tokens-jsx)
 
 ### Collections
 
