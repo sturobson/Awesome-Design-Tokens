@@ -76,6 +76,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Implementing Design Tokens in Workflows](https://www.nearform.com/blog/implementing-design-tokens-in-workflows/)
 - [Share design tokens across projects with JSX files](https://motiondeveloper.com/blog/design-tokens-jsx)
 - [Turf- Designing the rules of play!](https://d11engg.medium.com/turf-designing-the-rules-of-play-1c8738d743d2)
+- [Introducing Style-Dictionnary])http://www.intothesystem.blog/2021/09/17/introducing-style-dictionnary/_
 
 ### Collections
 
