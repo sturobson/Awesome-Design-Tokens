@@ -80,6 +80,11 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Introducing Style-Dictionnary](http://www.intothesystem.blog/2021/09/17/introducing-style-dictionnary/_)
 - [Keeping it consistent: Design Tokens](https://bootcamp.uxdesign.cc/keeping-it-consistent-design-tokens-eaecdbdfee50)
 - [Becoming a design tokens ambassador](https://specifyapp.com/blog/becoming-a-design-tokens-ambassador)
+- [Standardized Design Tokens and CSS for a consistent, customizable, and interoperable WordPress future](https://mrwweb.com/standardized-design-tokens-css-wordpress-future/)
+- [Use Design Tokens to Connect Design System and Code Production](https://medium.com/imgcook/use-design-tokens-to-connect-design-system-and-code-production-25f5381a3a0)
+- [Design tokens and why design systems need them?](https://mikaelvesavuori.medium.com/design-tokens-and-why-design-systems-need-them-35aec05fe584)
+- [Design Tokens and how a W3C specification will help going forward](https://backlight.dev/blog/design-tokens/)
+- [TypeScript Design Tokens with Styled Components](https://dev.to/mattisadev/typescript-design-tokens-with-styled-components-42ma)
 
 ### Collections
 
@@ -169,3 +174,4 @@ A list of plugins to help you move tokens from apps to wherever you want
 ## Other
 
 - [Universal Design Tokens](https://udt.design)
+- [Component Tokens & Themes Example, learning Figma Tokens](https://www.figma.com/community/file/1077953107713783283?preview=fullscreen)
