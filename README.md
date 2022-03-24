@@ -120,6 +120,7 @@ A list of tools that help you generate other files from your design tokens
 - [DesignTokens.dev](https://www.designtokens.dev)
 - [Gorko](https://github.com/hankchizljaw/gorko)
 - [Specify](https://www.specifyapp.com)
+- [Toolabs](https://www.toolabs.com)
 - [Design Tokens GitHub Actions Generator](https://design-tokens-github-actions-generator.netlify.app)
 - [Theemo](https://gossi.github.io/theemo/)
 
@@ -133,10 +134,16 @@ A list of plugins to help you move tokens from apps to wherever you want
 - [JSON to Figma](https://www.figma.com/community/plugin/789839703871161985/JSON-to-Figma)
 - [Wunderzin](https://github.com/PavelLaptev/wunderzin)
 - [Theemo](https://www.figma.com/community/plugin/791262205400516364)
+- [Figmagic (Figma)](https://github.com/mikaelvesavuori/figmagic)
+- [Figgo (Figma)](https://github.com/B3nnyL/figgo)
+- [Design Tokens (Figma)](https://github.com/lukasoppermann/design-tokens)
+- [Toolabs DSM (Figma)](https://www.figma.com/community/plugin/862818788004280193/Toolabs-Design-System-Manager)
+
 
 ### Sketch
 - [Design Tokens (Sketch)](https://design-tokens.netlify.app)
 - [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
+
 
 ### Adobe XD
 - [Style Mate (XD)](https://useratio.com/stylemate/)
@@ -146,6 +153,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 
 ### Invision DSM
 - [Organizing Design Tokens](https://support.invisionapp.com/hc/en-us/articles/360049483372)
+
 
 ## Slides, Videos, Podcasts
 
