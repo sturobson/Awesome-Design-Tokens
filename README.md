@@ -5,7 +5,6 @@
 - [Design Tokens Working Group Repo](https://github.com/design-tokens/working-group)
 - [Design Tokens Twitter](https://www.twitter.com/DesignTokens)
 
-
 ## Live Sites
 
 A list of company design systems Design Tokens section
@@ -28,7 +27,7 @@ A list of repos that contain a companies Design Tokens
 - [Mozilla Protocal Design System](https://github.com/mozilla/protocol)
 - [Bloomberg](https://github.com/bloombergbna?utf8=✓&q=fishtank&type=&language=)
 - [Firefox Photon](https://github.com/FirefoxUX/design-tokens)
-- [Shopify Polaris](https://github.com/Shopify/polaris-tokens)
+- [Shopify Polaris](https://github.com/Shopify/polaris/tree/main/polaris-tokens)
 - [Infor Design](https://github.com/infor-design/design-system/tree/master/design-tokens)
 - [Envato Foundation](https://github.com/envato/foundation-design-system-tokens)
 - [Backpack](https://github.com/Skyscanner/backpack/tree/master/packages/bpk-tokens)
@@ -128,7 +127,9 @@ A list of tools that help you generate other files from your design tokens
 ## Plugins
 
 A list of plugins to help you move tokens from apps to wherever you want
-###  Figma
+
+### Figma
+
 - [Figmagic (Figma)](https://github.com/mikaelvesavuori/figmagic)
 - [Figgo (Figma)](https://github.com/B3nnyL/figgo)
 - [Design Tokens](https://github.com/lukasoppermann/design-tokens)
@@ -140,22 +141,23 @@ A list of plugins to help you move tokens from apps to wherever you want
 - [Design Tokens (Figma)](https://github.com/lukasoppermann/design-tokens)
 - [Toolabs DSM (Figma)](https://www.figma.com/community/plugin/862818788004280193/Toolabs-Design-System-Manager)
 
-
 ### Sketch
+
 - [Design Tokens (Sketch)](https://design-tokens.netlify.app)
 - [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
 - [Design Tokens Exporter](https://github.com/icona79/sketch-design-tokens-exporter)
 
-
 ### Adobe XD
+
 - [Style Mate (XD)](https://useratio.com/stylemate/)
 
 ### MockFlow
+
 - [Design Tokens](https://mockflow.com/mockstore/#/powerup/Dbf4986ea1bacffca316048f9bc337ff8/Design%20Tokens)
 
 ### Invision DSM
-- [Organizing Design Tokens](https://support.invisionapp.com/hc/en-us/articles/360049483372)
 
+- [Organizing Design Tokens](https://support.invisionapp.com/hc/en-us/articles/360049483372)
 
 ## Slides, Videos, Podcasts
 
@@ -175,11 +177,11 @@ A list of plugins to help you move tokens from apps to wherever you want
 - 📊 [Louis Chenais - Design Tokens: To Infinity and Beyond](https://noti.st/louischenais/byPUwK/design-tokens-to-infinity-and-beyond)
 
 ### Podcasts
+
 - 🎧 [Design Tokens: Scaling Design with a Single Source of Truth](https://aycl.uie.com/virtual_seminars/design_tokens_scaling_design_with_a_single_source_of_truth) (💲)
 - 🎧 [Smashing Podcast Episode 3 With Jina: What Are Design Tokens?](https://www.smashingmagazine.com/2019/11/smashing-podcast-episode-3/)
 - 🎧 [Toolsday 104. Design Tokens with Jina](https://spec.fm/podcasts/toolsday/309795)
 - 🎧 [Using design tokens to standardize deliverables](https://www.designsystemspodcast.com/episodes/episode/48e64e62/28-matthew-strom-from-simplehealth-using-design-tokens-to-standardize-deliverables)
-
 
 ## Other
 
