@@ -144,6 +144,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 ### Sketch
 - [Design Tokens (Sketch)](https://design-tokens.netlify.app)
 - [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect)
+- [Design Tokens Exporter](https://github.com/icona79/sketch-design-tokens-exporter)
 
 
 ### Adobe XD
