@@ -107,7 +107,7 @@ A list of tools that help you generate other files from your design tokens
 
 - [Toolabs DSM](https://www.toolabs.com)
 - [Arcade](https://usearcade.com)
-- [Design tokens export plugin](https://github.com/design-meets-development/design-tokens-plugin)
+- [Design Tokens Cli](https://github.com/Heydon/design-tokens-cli)
 - [Theo](https://github.com/salesforce-ux/theo)
 - [Style Dictionary](https://github.com/amzn/style-dictionary)
 - [Mole](https://github.com/limitlessloop/mole)
@@ -124,6 +124,7 @@ A list of tools that help you generate other files from your design tokens
 - [Design Tokens GitHub Actions Generator](https://design-tokens-github-actions-generator.netlify.app)
 - [Theemo](https://gossi.github.io/theemo/)
 - [PostCSS Design Tokens](https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-design-tokens)
+- [Design tokens export plugin](https://github.com/design-meets-development/design-tokens-plugin)
 
 ## Plugins
 
