@@ -85,6 +85,11 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Design tokens and why design systems need them?](https://mikaelvesavuori.medium.com/design-tokens-and-why-design-systems-need-them-35aec05fe584)
 - [Design Tokens and how a W3C specification will help going forward](https://backlight.dev/blog/design-tokens/)
 - [TypeScript Design Tokens with Styled Components](https://dev.to/mattisadev/typescript-design-tokens-with-styled-components-42ma)
+- [Design Tokens: How to adopt Design Tokens from 0 to 1](https://medium.com/@mewomewoliu/how-to-adopt-design-token-from-0-to-1-e7fc73d3e05c)
+- [Design token scales](https://chienchwu.medium.com/design-token-scales-88286ebb6a30)
+- [Design tokens: what they are and how to work with them](https://medium.com/interactive-design-company/design-tokens-what-they-are-and-how-to-work-with-them-1cd4501523f4)
+- [Setting up Design Tokens for Multi-themes in Figma](https://www.samrosecruz.com/blog/setting-up-design-tokens-for-multi-themes-in-figma/)
+- [Design tokens as your DNA](https://zeroheight.com/blog/design-tokens-as-your-dna/)
 
 ### Collections
 
