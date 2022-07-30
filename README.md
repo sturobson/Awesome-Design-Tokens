@@ -40,6 +40,8 @@ A list of repos that contain a companies Design Tokens
 
 A list of articles that discuss Design Tokens, including any tutorials found on how they're being created.
 
+- [Design tokens as your DNA](https://zeroheight.com/blog/design-tokens-as-your-dna/)
+- [How we implement Semantic Tokens in Tangram](https://medium.com/design-rd/como-implementamos-tokens-semânticos-no-tangram-bbf64ae24dc4)🇵🇹
 - [The context dilemma: design tokens and components](https://frontside.com/blog/2021-01-15-design-tokens-and-components/)
 - [Design tokens — What are they & how will they help you?](https://lukasoppermann.medium.com/design-tokens-what-are-they-how-will-they-help-you-b73f80f602ab)
 - [Tokenize It](https://blog.prototypr.io/tokenize-it-2a544ef1413b)
@@ -168,6 +170,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 ### Videos
 
 - 📽 [WTF are Design Tokens?](https://www.youtube.com/watch?v=q5qIowMyVt8)
+- 📽 [Design Tokens – Searching for a Source of Truth](https://youtu.be/oYhPtoc4TqE)
 - 📽 [Building Consistent Cross-Platform Interfaces](https://youtu.be/OCMt-aA8XBA)
 - 📽 [Design Tokens and CSS](https://youtu.be/map-zXfy6y0)
 - 📽 [Design Tokens 101](https://kilianvalkhof.com/2020/design/design-tokens-101/)
