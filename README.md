@@ -92,6 +92,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Design tokens: what they are and how to work with them](https://medium.com/interactive-design-company/design-tokens-what-they-are-and-how-to-work-with-them-1cd4501523f4)
 - [Setting up Design Tokens for Multi-themes in Figma](https://www.samrosecruz.com/blog/setting-up-design-tokens-for-multi-themes-in-figma/)
 - [Design tokens as your DNA](https://zeroheight.com/blog/design-tokens-as-your-dna/)
+- [Dark mode with design tokens](https://uxdesign.cc/dark-mode-with-design-tokens-8d7b9d9753a)
 
 ### Collections
 
