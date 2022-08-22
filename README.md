@@ -17,6 +17,7 @@ A list of company design systems Design Tokens section
 - [Hex (Bitnami)](https://design.bitnami.com/category/Design-Tokens/)
 - [Mineral UI](https://mineral-ui.netlify.com/tokens)
 - [Goldman Sachs - Color Tokens](https://design.gs.com/foundation/color-system/color-tokens#grid)
+- [Nordhealth Design Tokens](https://nordhealth.design/tokens/)
 
 ## GitHub Repositories
 
