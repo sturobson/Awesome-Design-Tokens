@@ -93,6 +93,11 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Setting up Design Tokens for Multi-themes in Figma](https://www.samrosecruz.com/blog/setting-up-design-tokens-for-multi-themes-in-figma/)
 - [Design tokens as your DNA](https://zeroheight.com/blog/design-tokens-as-your-dna/)
 - [Dark mode with design tokens](https://uxdesign.cc/dark-mode-with-design-tokens-8d7b9d9753a)
+- [The Pyramid Design Token Structure: The Best Way to Format, Organize, and Name Your Design Tokens](https://stefaniefluin.medium.com/the-pyramid-design-token-structure-the-best-way-to-format-organize-and-name-your-design-tokens-ca81b9d8836d)
+- [Evolution of design tokens and component styling, part 1](https://medium.com/fast-design/evolution-of-design-tokens-and-component-styling-part-1-f1491ad1120e)
+- [Design Tokens- Future of Design Systems](https://bootcamp.uxdesign.cc/design-tokens-future-of-design-systems-ccdb15ee2db)
+- [How we implement Semantic Tokens in Tangram](https://medium.com/design-rd/como-implementamos-tokens-semânticos-no-tangram-bbf64ae24dc4)
+- [Improving Accessibility with Design Tokens (with video)](https://solomon.io/improving-accessibility-with-design-tokens/)
 
 ### Collections
 
