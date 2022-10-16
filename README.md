@@ -99,6 +99,15 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Design Tokens- Future of Design Systems](https://bootcamp.uxdesign.cc/design-tokens-future-of-design-systems-ccdb15ee2db)
 - [How we implement Semantic Tokens in Tangram](https://medium.com/design-rd/como-implementamos-tokens-semânticos-no-tangram-bbf64ae24dc4)
 - [Improving Accessibility with Design Tokens (with video)](https://solomon.io/improving-accessibility-with-design-tokens/)
+- [Reference Token vs System Token](https://medium.com/@a.v2599/reference-token-vs-system-token-9d8f5de50342)
+- [A Primer on Design Tokens](https://medium.com/@renakuai/a-primer-on-design-tokens-f7dd432f06ae)
+- [Figma Design Tokens with Github Repositores](https://bootcamp.uxdesign.cc/figma-design-tokens-with-github-repositories-cb0554156137)
+- [Piping Design Tokens from Figma](https://medium.com/@dznjudo/piping-design-tokens-from-figma-8a086a6ac17c)
+- [Component-level Design Tokens: are they worth it?](https://medium.com/@NateBaldwin/component-level-design-tokens-are-they-worth-it-d1ae4c6b19d4)
+- [Evolution of Design Tokens and Component Styling, part 2](https://medium.com/fast-design/evolution-of-design-tokens-and-component-styling-part-2-1018e8bae62)
+- [Life of a Design Token](https://zeroheight.com/blog/life-of-a-design-token/)
+- [Design Tokens 101](https://designstrategy.guide/design-system/design-tokens-101/)
+
 
 ### Collections
 
