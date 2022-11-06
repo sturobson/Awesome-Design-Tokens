@@ -107,6 +107,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Evolution of Design Tokens and Component Styling, part 2](https://medium.com/fast-design/evolution-of-design-tokens-and-component-styling-part-2-1018e8bae62)
 - [Life of a Design Token](https://zeroheight.com/blog/life-of-a-design-token/)
 - [Design Tokens 101](https://designstrategy.guide/design-system/design-tokens-101/)
+- [What are design tokens?](https://bootcamp.uxdesign.cc/what-are-design-tokens-828c67410069)
 
 
 ### Collections
