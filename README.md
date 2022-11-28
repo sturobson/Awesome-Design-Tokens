@@ -115,7 +115,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Reimagining a Token Taxonomy](https://medium.com/eightshapes-llc/reimagining-a-token-taxonomy-462d35b2b033)
 - [Creating a design tokens automation pipeline with Figma and Style Dictionary](https://medium.com/@gabrielrudy575/creating-a-design-tokens-automation-pipeline-with-figma-and-style-dictionary-304272d5465f)
 - [Icons, in the Design Tokens way](https://valentinoafb.medium.com/icons-in-the-design-tokens-way-24c39cdcbc6a)
-- 
+- [Design Tokens for better Design Systems](https://bootcamp.uxdesign.cc/design-tokens-for-better-design-systems-ab6d833e8d2f)
 
 
 ### Collections
@@ -139,6 +139,7 @@ A list of tools that help you generate other files from your design tokens
 
 - [Toolabs DSM](https://www.toolabs.com)
 - [Arcade](https://usearcade.com)
+- [Supernova](https://www.supernova.io)
 - [Design Tokens Cli](https://github.com/Heydon/design-tokens-cli)
 - [Theo](https://github.com/salesforce-ux/theo)
 - [Style Dictionary](https://github.com/amzn/style-dictionary)
