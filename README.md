@@ -108,6 +108,14 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Life of a Design Token](https://zeroheight.com/blog/life-of-a-design-token/)
 - [Design Tokens 101](https://designstrategy.guide/design-system/design-tokens-101/)
 - [What are design tokens?](https://bootcamp.uxdesign.cc/what-are-design-tokens-828c67410069)
+- [Installing & Syncing Design Tokens](https://satellytes.com/blog/post/installing-and-syncing-figma-design-tokens/)
+- [Creating & Crafting a Design Token System](https://satellytes.com/blog/post/creating-and-crafting-a-design-token-system/)
+- [Design tokens, a bridge between designers and developers 🇯🇵](https://medium.com/@fcheukyin/デザイントークン-デザイナーとデベロッパーの架け橋-3f5f35b32be5)
+- [Design Tokens in Your React Design System — The Right Way](https://javascript.plainenglish.io/design-tokens-in-a-react-component-design-system-the-right-way-f55d392fb540)
+- [Reimagining a Token Taxonomy](https://medium.com/eightshapes-llc/reimagining-a-token-taxonomy-462d35b2b033)
+- [Creating a design tokens automation pipeline with Figma and Style Dictionary](https://medium.com/@gabrielrudy575/creating-a-design-tokens-automation-pipeline-with-figma-and-style-dictionary-304272d5465f)
+- [Icons, in the Design Tokens way](https://valentinoafb.medium.com/icons-in-the-design-tokens-way-24c39cdcbc6a)
+- 
 
 
 ### Collections
