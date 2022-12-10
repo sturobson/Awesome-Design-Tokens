@@ -117,6 +117,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Icons, in the Design Tokens way](https://valentinoafb.medium.com/icons-in-the-design-tokens-way-24c39cdcbc6a)
 - [Design Tokens for better Design Systems](https://bootcamp.uxdesign.cc/design-tokens-for-better-design-systems-ab6d833e8d2f)
 - [Complementary Space - Design spacing tokens semantically](https://complementary.space)
+- [W3C Design Tokens with Style Dictionary](https://lukasoppermann.medium.com/w3c-design-tokens-with-style-dictionary-f7ff5f2ba98c)
 
 
 ### Collections
@@ -144,6 +145,7 @@ A list of tools that help you generate other files from your design tokens
 - [Design Tokens Cli](https://github.com/Heydon/design-tokens-cli)
 - [Theo](https://github.com/salesforce-ux/theo)
 - [Style Dictionary](https://github.com/amzn/style-dictionary)
+- [Style Dictionary Utils](https://github.com/lukasoppermann/style-dictionary-utils#shadowcss)
 - [Mole](https://github.com/limitlessloop/mole)
 - [Dragoman](https://github.com/NateBaldwinDesign/dragoman)
 - [design-system-utils](https://github.com/mrmartineau/design-system-utils)
