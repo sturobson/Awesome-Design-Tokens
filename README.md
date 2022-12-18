@@ -118,6 +118,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Design Tokens for better Design Systems](https://bootcamp.uxdesign.cc/design-tokens-for-better-design-systems-ab6d833e8d2f)
 - [Complementary Space - Design spacing tokens semantically](https://complementary.space)
 - [W3C Design Tokens with Style Dictionary](https://lukasoppermann.medium.com/w3c-design-tokens-with-style-dictionary-f7ff5f2ba98c)
+- [Product Designers take note — tokens save time and money](https://medium.com/weareuntilnow/product-designers-take-note-tokens-save-time-and-money-31eed539ed0a)
 
 
 ### Collections
