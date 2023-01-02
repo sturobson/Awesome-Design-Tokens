@@ -209,6 +209,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 - 📽 [Mikolaj Dobrucki - Getting More with Design Tokens](https://vimeo.com/356648535)
 - 📽 [Louis Chenais - Standardisation des design tokens : le futur du design à grande échelle ?](https://www.youtube.com/watch?v=vs8DjsdOroc) (🇫🇷)
 - 📽 [An introduction to the design tokens file format](https://youtu.be/ssOdzxZdg58)
+- 📽 [Understanding design tokens, from UX tool to production by Debora Ornellas](https://youtu.be/uZk9J8asEcY)
 
 ### Slides
 
