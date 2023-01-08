@@ -119,6 +119,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Complementary Space - Design spacing tokens semantically](https://complementary.space)
 - [W3C Design Tokens with Style Dictionary](https://lukasoppermann.medium.com/w3c-design-tokens-with-style-dictionary-f7ff5f2ba98c)
 - [Product Designers take note — tokens save time and money](https://medium.com/weareuntilnow/product-designers-take-note-tokens-save-time-and-money-31eed539ed0a)
+- [Design tokens 101: A short and practical guide](https://aufaitux.com/blog/what-are-design-tokens/)
 
 
 ### Collections
