@@ -170,14 +170,13 @@ A list of tools that help you generate other files from your design tokens
 
 A list of plugins to help you move tokens from apps to wherever you want
 ###  Figma
-- [Design Tokens (Figma)](https://github.com/lukasoppermann/design-tokens)
 - [Design Tokens](https://github.com/lukasoppermann/design-tokens)
-- [Figgo (Figma)](https://github.com/B3nnyL/figgo)
+- [Figgo](https://github.com/B3nnyL/figgo)
 - [Figma Tokens](https://www.figmatokens.com/)
-- [Figmagic (Figma)](https://github.com/mikaelvesavuori/figmagic)
+- [Figmagic](https://github.com/mikaelvesavuori/figmagic)
 - [JSON to Figma](https://www.figma.com/community/plugin/789839703871161985/JSON-to-Figma)
 - [Theemo](https://www.figma.com/community/plugin/791262205400516364)
-- [Toolabs DSM (Figma)](https://www.figma.com/community/plugin/862818788004280193/Toolabs-Design-System-Manager)
+- [Toolabs DSM](https://www.figma.com/community/plugin/862818788004280193/Toolabs-Design-System-Manager)
 - [Wunderzin](https://github.com/PavelLaptev/wunderzin)
 
 ### Sketch
