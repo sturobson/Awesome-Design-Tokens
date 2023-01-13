@@ -18,6 +18,7 @@ A list of company design systems Design Tokens section
 - [Mineral UI](https://mineral-ui.netlify.com/tokens)
 - [Goldman Sachs - Color Tokens](https://design.gs.com/foundation/color-system/color-tokens#grid)
 - [Nordhealth Design Tokens](https://nordhealth.design/tokens/)
+- [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/design-tokens/)
 
 ## GitHub Repositories
 
