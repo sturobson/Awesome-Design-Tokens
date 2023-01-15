@@ -120,6 +120,11 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [W3C Design Tokens with Style Dictionary](https://lukasoppermann.medium.com/w3c-design-tokens-with-style-dictionary-f7ff5f2ba98c)
 - [Product Designers take note — tokens save time and money](https://medium.com/weareuntilnow/product-designers-take-note-tokens-save-time-and-money-31eed539ed0a)
 - [Design tokens 101: A short and practical guide](https://aufaitux.com/blog/what-are-design-tokens/)
+- [Design Token Clusters](https://medium.com/towkns/design-token-clusters-9b172c18ee7f)
+- [Creating tokens for your design system with ChatGPT assistance](https://uxdesign.cc/design-tokens-abd32379015b)
+- [Design Systems: Understanding Design Tokens and their use in Style Dictionary](https://b-benjithomas.medium.com/design-systems-understanding-design-tokens-and-their-use-in-style-dictionary-ee762c614234)
+- [Expanding the Reach of Design Tokens: How to Use Them in Non-UI Design](https://uxplanet.org/expanding-the-reach-of-design-tokens-how-to-use-them-in-non-ui-design-60aa4a8e87c)
+- [How To Use style-dictionary to manage colours in SwiftUI](https://www.swiftforjs.dev/blog/style-dictionary-colours-swiftui)
 
 
 ### Collections
