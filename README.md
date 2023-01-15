@@ -185,7 +185,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 - [Design Tokens (Figma)](https://github.com/lukasoppermann/design-tokens)
 - [Toolabs DSM (Figma)](https://www.figma.com/community/plugin/862818788004280193/Toolabs-Design-System-Manager)
 - [Tokens Studio](https://tokens.studio)
-  - [Documenting Multiple Tokens](https://share.cleanshot.com/28hCmzbz)
+  - [Documenting Multiple Tokens 📽️](https://share.cleanshot.com/28hCmzbz)
 
 
 ### Sketch
