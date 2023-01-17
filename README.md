@@ -13,7 +13,6 @@ A list of company design systems Design Tokens section
 - [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/design-tokens/)
 - [Formstack](https://www.formstack.com/brand/design-system/variables-colors)
 - [Comet (Discovery Education)](https://comet.discoveryeducation.com/visual-language/tokens.html)
-- [Kalo](https://kalo.design/foundations/design-tokens/)
 - [Hex (Bitnami)](https://design.bitnami.com/category/Design-Tokens/)
 - [Mineral UI](https://mineral-ui.netlify.com/tokens)
 - [Goldman Sachs - Color Tokens](https://design.gs.com/foundation/color-system/color-tokens#grid)
