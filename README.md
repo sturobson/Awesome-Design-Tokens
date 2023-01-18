@@ -121,6 +121,11 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [W3C Design Tokens with Style Dictionary](https://lukasoppermann.medium.com/w3c-design-tokens-with-style-dictionary-f7ff5f2ba98c)
 - [Product Designers take note — tokens save time and money](https://medium.com/weareuntilnow/product-designers-take-note-tokens-save-time-and-money-31eed539ed0a)
 - [Design tokens 101: A short and practical guide](https://aufaitux.com/blog/what-are-design-tokens/)
+- [Design Token Clusters](https://medium.com/towkns/design-token-clusters-9b172c18ee7f)
+- [Creating tokens for your design system with ChatGPT assistance](https://uxdesign.cc/design-tokens-abd32379015b)
+- [Design Systems: Understanding Design Tokens and their use in Style Dictionary](https://b-benjithomas.medium.com/design-systems-understanding-design-tokens-and-their-use-in-style-dictionary-ee762c614234)
+- [Expanding the Reach of Design Tokens: How to Use Them in Non-UI Design](https://uxplanet.org/expanding-the-reach-of-design-tokens-how-to-use-them-in-non-ui-design-60aa4a8e87c)
+- [How To Use style-dictionary to manage colours in SwiftUI](https://www.swiftforjs.dev/blog/style-dictionary-colours-swiftui)
 
 
 ### Collections
@@ -171,13 +176,16 @@ A list of tools that help you generate other files from your design tokens
 A list of plugins to help you move tokens from apps to wherever you want
 ###  Figma
 - [Design Tokens](https://github.com/lukasoppermann/design-tokens)
+- [Documenting Multiple Tokens 📽️](https://share.cleanshot.com/28hCmzbz)
 - [Figgo](https://github.com/B3nnyL/figgo)
 - [Figma Tokens](https://www.figmatokens.com/)
 - [Figmagic](https://github.com/mikaelvesavuori/figmagic)
 - [JSON to Figma](https://www.figma.com/community/plugin/789839703871161985/JSON-to-Figma)
 - [Theemo](https://www.figma.com/community/plugin/791262205400516364)
+- [Tokens Studio](https://tokens.studio)
 - [Toolabs DSM](https://www.figma.com/community/plugin/862818788004280193/Toolabs-Design-System-Manager)
 - [Wunderzin](https://github.com/PavelLaptev/wunderzin)
+
 
 ### Sketch
 - [Design Tokens (Sketch)](https://design-tokens.netlify.app)
