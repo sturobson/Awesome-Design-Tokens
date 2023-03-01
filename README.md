@@ -148,6 +148,8 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [11. Linting Design Tokens With Stylelint](https://www.michaelmang.dev/blog/linting-design-tokens-with-stylelint)
 - [12. Stitching Styles to a Headless UI Using Design Tokens and Twind](https://www.michaelmang.dev/blog/stitching-styles-to-a-headless-ui-using-design-tokens-and-twind)
 - [Building Rapido’s Design System](https://medium.com/rapido-labs/building-rapidos-design-system-54a0e94bf5dc)
+- [Token System](https://medium.com/@leejesslin/token-system-81e83ed9dc4a)
+- [create design tokens in 5 easy steps](https://designtokens.substack.com/p/create-design-tokens-in-5-easy-steps)
 
 ## Tools
 
@@ -203,6 +205,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 
 ### Adobe XD
 - [Style Mate (XD)](https://useratio.com/stylemate/)
+- [Generating a Style Dictionary from a Design System Palette (DSP) using the Adobe XD Extension in VSCode](https://medium.com/@yokesh_ks/generating-a-style-dictionary-from-a-design-system-palette-dsp-using-the-adobe-xd-extension-in-5035ea837aa6)
 
 ### MockFlow
 - [Design Tokens](https://mockflow.com/mockstore/#/powerup/Dbf4986ea1bacffca316048f9bc337ff8/Design%20Tokens)
