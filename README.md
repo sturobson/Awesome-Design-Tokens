@@ -131,6 +131,10 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Creating tokens for your design system with ChatGPT assistance](https://uxdesign.cc/design-tokens-abd32379015b)
 - [Creating & crafting a design token system](https://bootcamp.uxdesign.cc/creating-crafting-a-design-token-system-b661a9ba9d55)
 - [Are design tokens the superpower of design systems?](https://medium.com/nntech/are-design-tokens-the-superpower-of-design-systems-6f512557c7a0)
+- [Figma Token Engine: Quick Start](https://medium.com/@jdanielca/figma-token-engine-quick-start-b6e0bc08a388)
+- [tokens studio for figma quickstart](https://bootcamp.uxdesign.cc/tokens-studio-for-figma-quickstart-8d3ca9ae6585)
+- [Design Tokens 2.0 — The Ultimate Guide.](https://bootcamp.uxdesign.cc/design-tokens-2-0-the-ultimate-guide-32b4a047503)
+- [Versioning Design Tokens](https://designtokens.substack.com/p/versioning-design-tokens)
 
 
 ### Collections
@@ -193,6 +197,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 - [Figgo (Figma)](https://github.com/B3nnyL/figgo)
 - [Design Tokens (Figma)](https://github.com/lukasoppermann/design-tokens)
 - [Toolabs DSM (Figma)](https://www.figma.com/community/plugin/862818788004280193/Toolabs-Design-System-Manager)
+- [Figma Token Engine](https://www.npmjs.com/package/figma-token-engine)
 - [Tokens Studio](https://tokens.studio)
   - [Documenting Multiple Tokens 📽️](https://share.cleanshot.com/28hCmzbz)
 
