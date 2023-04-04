@@ -135,6 +135,8 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [tokens studio for figma quickstart](https://bootcamp.uxdesign.cc/tokens-studio-for-figma-quickstart-8d3ca9ae6585)
 - [Design Tokens 2.0 — The Ultimate Guide.](https://bootcamp.uxdesign.cc/design-tokens-2-0-the-ultimate-guide-32b4a047503)
 - [Versioning Design Tokens](https://designtokens.substack.com/p/versioning-design-tokens)
+- [A Semantic Approach to Buttons (& More) Using Design Tokens](https://bootcamp.uxdesign.cc/a-semantic-approach-to-buttons-more-a218aee69f47)
+- [Design token automation from Figma to Storybook](https://matthewrea.com/blog/design-token-automation-from-figma-to-storybook/)
 
 
 ### Collections
@@ -183,6 +185,15 @@ A list of tools that help you generate other files from your design tokens
 - [Design tokens export plugin](https://github.com/design-meets-development/design-tokens-plugin)
 - [Design Tokens Generator](https://tokens.layoutit.com/)
 
+## Resources
+
+Lists of 'ready made' pages, or starter kits
+### Figma
+- [Mini Design Token](https://www.figma.com/community/file/1223864407347233084)
+- [Resources and Templates from Zeroheight](https://www.figma.com/@zeroheight)
+### Notion
+- [Design Tokens Manager](https://zetareticoli.gumroad.com/l/design-tokens-manager)
+
 ## Plugins
 
 A list of plugins to help you move tokens from apps to wherever you want
@@ -200,6 +211,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 - [Figma Token Engine](https://www.npmjs.com/package/figma-token-engine)
 - [Tokens Studio](https://tokens.studio)
   - [Documenting Multiple Tokens 📽️](https://share.cleanshot.com/28hCmzbz)
+- [Use Design Tokens](https://usedesigntokens.com)
 
 
 ### Sketch
