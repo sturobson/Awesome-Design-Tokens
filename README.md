@@ -255,6 +255,7 @@ A list of plugins to help you move tokens from apps to wherever you want
 - 🎧 [Smashing Podcast Episode 3 With Jina: What Are Design Tokens?](https://www.smashingmagazine.com/2019/11/smashing-podcast-episode-3/)
 - 🎧 [Toolsday 104. Design Tokens with Jina](https://spec.fm/podcasts/toolsday/309795)
 - 🎧 [Using design tokens to standardize deliverables](https://www.designsystemspodcast.com/episodes/episode/48e64e62/28-matthew-strom-from-simplehealth-using-design-tokens-to-standardize-deliverables)
+- 🎧 Design Token Takes [Part 1](https://www.designsystemspodcast.com/episodes/episode/796fa1b9/66-design-token-takes-part-one-amber-stickel-and-taylor-cashdan) [Part 2](https://www.designsystemspodcast.com/episodes/episode/7944adfb/67-design-token-takes-part-two-kaelig-deloumeau-prigent-and-darren-simons)
 
 
 ## Other
