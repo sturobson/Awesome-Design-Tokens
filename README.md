@@ -135,6 +135,8 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Versioning Design Tokens](https://designtokens.substack.com/p/versioning-design-tokens)
 - [A Semantic Approach to Buttons (& More) Using Design Tokens](https://bootcamp.uxdesign.cc/a-semantic-approach-to-buttons-more-a218aee69f47)
 - [Design token automation from Figma to Storybook](https://matthewrea.com/blog/design-token-automation-from-figma-to-storybook/)
+- [Building a Sustainable and Scalable Workflow Around Design Tokens](https://www.knapsack.cloud/blog/building-a-sustainable-and-scalable-workflow-around-design-tokens)
+- [The future possibilities of design tokens](https://www.knapsack.cloud/blog/the-future-possibilities-of-design-tokens)
 
 
 ### Collections
