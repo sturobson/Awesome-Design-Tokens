@@ -137,6 +137,9 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Design token automation from Figma to Storybook](https://matthewrea.com/blog/design-token-automation-from-figma-to-storybook/)
 - [Building a Sustainable and Scalable Workflow Around Design Tokens](https://www.knapsack.cloud/blog/building-a-sustainable-and-scalable-workflow-around-design-tokens)
 - [The future possibilities of design tokens](https://www.knapsack.cloud/blog/the-future-possibilities-of-design-tokens)
+- [Design Tokens: Beginner’s Guide](https://uxplanet.org/design-tokens-beginners-guide-4424944bf5f9)
+- [Design Tokens: What do you need to know?](https://medium.com/@stalinthomas.zbb/design-tokens-what-do-you-need-to-know-b0c2b6e92c8d)
+- [Exposing Figma tokens to design system consumers](https://rangle.io/blog/exposing-figma-tokens-to-design-system-consumers)
 
 
 ### Collections
@@ -156,6 +159,11 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Building Rapido’s Design System](https://medium.com/rapido-labs/building-rapidos-design-system-54a0e94bf5dc)
 - [Token System](https://medium.com/@leejesslin/token-system-81e83ed9dc4a)
 - [create design tokens in 5 easy steps](https://designtokens.substack.com/p/create-design-tokens-in-5-easy-steps)
+
+- [Inside Design Tokens: Definitions & Traits](https://gos.si/blog/inside-design-tokens-definitions-traits/)
+- [Inside Design Tokens: Features](https://gos.si/blog/inside-design-tokens-features/)
+- [Inside Design Tokens: Modeling & Communication](https://gos.si/blog/inside-design-tokens-modeling-communication/)
+- [Inside Design tokens: The Three Class Token Society](https://gos.si/blog/inside-design-tokens-the-three-class-token-society/)
 
 ## Tools
 
