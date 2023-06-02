@@ -143,6 +143,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Standardizing the Design Systems by tokenization: Integrating designers and developers workflows](https://bootcamp.uxdesign.cc/standardizing-the-design-systems-by-tokenization-integrating-designers-and-developers-workflows-e649ae1462dc)
 - [How design tokens empower better collaboration between designers and developers](https://bootcamp.uxdesign.cc/how-design-tokens-empower-better-collaboration-between-designers-and-developers-c40ab14edb86)
 - [Simplifying design tokens](https://medium.com/@erickrubiales/simplifying-design-tokens-e4412812b073)
+- [Design tokens: how we use and automate them at GR8 Tech](https://uxplanet.org/design-tokens-how-we-use-and-automate-them-at-parimatch-tech-139d2daad478)
 
 
 ### Collections
