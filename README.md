@@ -142,6 +142,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Exposing Figma tokens to design system consumers](https://rangle.io/blog/exposing-figma-tokens-to-design-system-consumers)
 - [Standardizing the Design Systems by tokenization: Integrating designers and developers workflows](https://bootcamp.uxdesign.cc/standardizing-the-design-systems-by-tokenization-integrating-designers-and-developers-workflows-e649ae1462dc)
 - [How design tokens empower better collaboration between designers and developers](https://bootcamp.uxdesign.cc/how-design-tokens-empower-better-collaboration-between-designers-and-developers-c40ab14edb86)
+- [Simplifying design tokens](https://medium.com/@erickrubiales/simplifying-design-tokens-e4412812b073)
 
 
 ### Collections
