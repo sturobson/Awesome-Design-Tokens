@@ -144,6 +144,7 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [How design tokens empower better collaboration between designers and developers](https://bootcamp.uxdesign.cc/how-design-tokens-empower-better-collaboration-between-designers-and-developers-c40ab14edb86)
 - [Simplifying design tokens](https://medium.com/@erickrubiales/simplifying-design-tokens-e4412812b073)
 - [Design tokens: how we use and automate them at GR8 Tech](https://uxplanet.org/design-tokens-how-we-use-and-automate-them-at-parimatch-tech-139d2daad478)
+- [Design tokens generator: swift and rational design system foundation](https://bootcamp.uxdesign.cc/design-tokens-generator-simplifying-design-token-management-19fec7be3084)
 
 
 ### Collections
@@ -196,6 +197,7 @@ A list of tools that help you generate other files from your design tokens
 - [PostCSS Design Tokens](https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-design-tokens)
 - [Design tokens export plugin](https://github.com/design-meets-development/design-tokens-plugin)
 - [Design Tokens Generator](https://tokens.layoutit.com/)
+- another [Design Tokens Generator](https://www.design-tokens.dev)
 
 ## Resources
 
