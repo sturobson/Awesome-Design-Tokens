@@ -164,11 +164,11 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Building Rapido’s Design System](https://medium.com/rapido-labs/building-rapidos-design-system-54a0e94bf5dc)
 - [Token System](https://medium.com/@leejesslin/token-system-81e83ed9dc4a)
 - [create design tokens in 5 easy steps](https://designtokens.substack.com/p/create-design-tokens-in-5-easy-steps)
-
 - [Inside Design Tokens: Definitions & Traits](https://gos.si/blog/inside-design-tokens-definitions-traits/)
 - [Inside Design Tokens: Features](https://gos.si/blog/inside-design-tokens-features/)
 - [Inside Design Tokens: Modeling & Communication](https://gos.si/blog/inside-design-tokens-modeling-communication/)
 - [Inside Design tokens: The Three Class Token Society](https://gos.si/blog/inside-design-tokens-the-three-class-token-society/)
+- [Atomic design with tokens — The short version](https://medium.com/@mr.matan.rosen/atomic-design-with-tokens-the-short-version-921aba7d3faa)
 
 ## Tools
 
