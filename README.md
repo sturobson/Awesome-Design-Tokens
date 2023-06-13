@@ -198,6 +198,7 @@ A list of tools that help you generate other files from your design tokens
 - [Design tokens export plugin](https://github.com/design-meets-development/design-tokens-plugin)
 - [Design Tokens Generator](https://tokens.layoutit.com/)
 - another [Design Tokens Generator](https://www.design-tokens.dev)
+- [Design Tokens Validator](https://animaapp.github.io/design-token-validator-site/)
 
 ## Resources
 
