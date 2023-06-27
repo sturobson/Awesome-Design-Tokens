@@ -145,7 +145,14 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Simplifying design tokens](https://medium.com/@erickrubiales/simplifying-design-tokens-e4412812b073)
 - [Design tokens: how we use and automate them at GR8 Tech](https://uxplanet.org/design-tokens-how-we-use-and-automate-them-at-parimatch-tech-139d2daad478)
 - [Design tokens generator: swift and rational design system foundation](https://bootcamp.uxdesign.cc/design-tokens-generator-simplifying-design-token-management-19fec7be3084)
-
+- [Standardising Design Tokens](https://fullystacked.net/posts/design-tokens/)
+- [Making your design tokens future-proof](https://dev.to/andrico1234/making-your-design-tokens-future-proof-3adp)
+- [Creating a flexible design token taxonomy for Intuit’s Design System](https://medium.com/@NateBaldwin/creating-a-flexible-design-token-taxonomy-for-intuits-design-system-81c8ff55c59b)
+- [Using BEM for design-system tokens (bem-tokens)](https://medium.com/@wfercanas/using-bem-for-design-system-tokens-bem-tokens-46795339a893)
+- [Spicy specifications](https://blog.damato.design/posts/spicy-specifications/)
+- [Tokens are the most valuable artifact a design system can provide](https://www.knapsack.cloud/blog/tokens-are-the-most-valuable-artifact-a-design-system-can-provide)
+- [Unlocking the Power of Design Tokens to Create Dark Mode UI](https://ambitiousdesigner.substack.com/p/unlocking-the-power-of-design-tokens)
+- [Design Tokens – What Are They and How to Use Them?](https://dodonut.com/blog/design-tokens-what-are-they-and-how-to-use-them/)
 
 ### Collections
 
