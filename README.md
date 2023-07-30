@@ -153,6 +153,8 @@ A list of articles that discuss Design Tokens, including any tutorials found on 
 - [Tokens are the most valuable artifact a design system can provide](https://www.knapsack.cloud/blog/tokens-are-the-most-valuable-artifact-a-design-system-can-provide)
 - [Unlocking the Power of Design Tokens to Create Dark Mode UI](https://ambitiousdesigner.substack.com/p/unlocking-the-power-of-design-tokens)
 - [Design Tokens – What Are They and How to Use Them?](https://dodonut.com/blog/design-tokens-what-are-they-and-how-to-use-them/)
+- [How design tokens impact design systems and why we should use them](https://blog.better.care/how-design-tokens-impact-design-systems-and-why-we-should-use-them)
+- [Reasonable and scalable taxonomy for tokens](https://medium.com/@andrzej.delgado/ui-crux-reasonable-and-scalable-design-taxonomy-for-tokens-2e97ac36830)
 
 ### Collections
 
