@@ -228,6 +228,7 @@ Lists of 'ready made' pages, or starter kits
 
 A list of plugins to help you move tokens from apps to wherever you want
 ###  Figma
+- [Design Tokens Manager (Figma)](https://www.figma.com/community/plugin/1263743870981744253/design-tokens-manager)
 - [Figmagic (Figma)](https://github.com/mikaelvesavuori/figmagic)
 - [Figgo (Figma)](https://github.com/B3nnyL/figgo)
 - [Design Tokens](https://github.com/lukasoppermann/design-tokens)
