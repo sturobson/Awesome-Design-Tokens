@@ -1,9 +1,9 @@
 # Awesome-Design-Tokens
 
-## Design Tokens Working Group
+## Design Tokens Community Group
 
-- [Design Tokens Working Group Repo](https://github.com/design-tokens/working-group)
-- [Design Tokens Twitter](https://www.twitter.com/DesignTokens)
+- [Design Tokens Community Group Repo](https://github.com/design-tokens/community-group)
+- [Design Tokens on 𝕏](https://x.com/DesignTokens)
 
 
 ## Live Sites
