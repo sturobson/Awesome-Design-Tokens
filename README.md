@@ -198,7 +198,6 @@ A list of tools that help you generate other files from your design tokens
 - [Style Dictionary Utils](https://github.com/lukasoppermann/style-dictionary-utils#shadowcss)
 - [Cobalt UI](https://cobalt-ui.pages.dev/)
 - [Mole](https://github.com/limitlessloop/mole)
-- [Dragoman](https://github.com/NateBaldwinDesign/dragoman)
 - [design-system-utils](https://github.com/mrmartineau/design-system-utils)
 - [Design Tokens Explorer](https://github.com/here-erhe/Design-Token-Exporter)
 - [Theme.css](https://github.com/ds-tools/theme.figma/blob/master/readme.md)
