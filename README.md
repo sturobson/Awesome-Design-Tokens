@@ -207,6 +207,7 @@ A list of tools that help you generate other files from your design tokens
 - [Gorko](https://github.com/hankchizljaw/gorko)
 - [Specify](https://www.specifyapp.com)
 - [Design Tokens GitHub Actions Generator](https://design-tokens-github-actions-generator.netlify.app)
+- [Design Tokens Language Server](https://github.com/bennypowers/design-tokens-language-server)
 - [Theemo](https://theemo.io)
 - [PostCSS Design Tokens](https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-design-tokens)
 - [Design tokens export plugin](https://github.com/design-meets-development/design-tokens-plugin)
